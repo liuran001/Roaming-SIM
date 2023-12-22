@@ -27,4 +27,6 @@
 | Lycamobile UK     | 71.69   | 0      | 5       | 14       |
 | Digicel LC        | 91.61   | 0      | 3       | 9        |
 
-注：目前有群友报告 5ber.eSIM 中写入 Red Bull Mobile 的 eSIM Profile 可能出现覆盖固件的问题，会导致整张 5ber 卡片写入的数据全部丢失，请谨慎使用
+注：
+1. 目前有群友报告 5ber.eSIM 中写入 Red Bull Mobile 的 eSIM Profile 可能出现覆盖固件的问题，会导致整张 5ber 卡片写入的数据全部丢失，请谨慎使用
+2. eid 为 `890860` 开头的 5ber.eSIM 无法正常写入 One NZ 的 eSIM Profile
