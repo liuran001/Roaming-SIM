@@ -15,8 +15,9 @@
 | Google Fi     | 27.22   | 1      | 14      | 38       |
 | BetterRoaming | 34.58   | 1      | 11      | 29       |
 | One NZ        | 31.05   | 1      | 12      | 34       |
-| Vodafone IE   | 44.63   | 1      | 9       | 25       |
-| CMLink GDS    | 45.91   | 1      | 9       | 25       |
+| Telia         | 42.63   | 1      | 9       | 24       |
+| Vodafone IE   | 44.63   | 1      | 9       | 24       |
+| CMLink GDS    | 45.91   | 1      | 9       | 24       |
 | lifecell      | 46.85   | 1      | 8       | 21       |
 | RBM           | 47.84   | 1      | 8       | 21       |
 | T-mobile US   | 48.63   | 1      | 8       | 21       |
