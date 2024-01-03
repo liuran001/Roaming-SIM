@@ -15,7 +15,7 @@
 | Google Fi         | 27.22   | 1      | 14      | 38       |
 | BetterRoaming     | 34.58   | 1      | 11      | 29       |
 | One NZ            | 31.05   | 1      | 12      | 34       |
-| Telia (Super)     | 42.63   | 1      | 9       | 24       |
+| Telia (Super) *   | 42.63   | 1      | 9       | 24       |
 | Vodafone IE       | 44.63   | 1      | 9       | 24       |
 | CMLink GDS        | 45.91   | 1      | 9       | 24       |
 | lifecell          | 46.85   | 1      | 8       | 21       |
@@ -30,3 +30,4 @@
 注：
 1. 目前有群友报告 5ber.eSIM 中写入 Red Bull Mobile 的 eSIM Profile 可能出现覆盖固件的问题，会导致整张 5ber 卡片写入的数据全部丢失，请谨慎使用
 2. eid 为 `890860` 开头的 5ber.eSIM 无法正常写入 One NZ 的 eSIM Profile
+3. 5ber.eSIM 中存入 eSIM Profile 相较于其他介质会占用更多的空间，具体原因和占用倍数不详。表格中标注有`*`号的项，说明此项在 5ber.eSIM 中测试得出
