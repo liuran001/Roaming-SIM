@@ -24,7 +24,7 @@
 | Eskimo            | 54.37   | 1      | 7       | 18       |
 | Clubsim           | 65.22   | 0      | 5       | 15       |
 | CTM               | 70.14   | 0      | 5       | 14       |
-| Lycamobile UK     | 71.69   | 0      | 5       | 14       |
+| Lycamobile UK *   | 71.69   | 0      | 5       | 14       |
 | Digicel LC        | 91.61   | 0      | 3       | 9        |
 
 注：
