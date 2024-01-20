@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as e,U as r}from"./chunks/framework.F-SyL-18.js";const f=JSON.parse('{"title":"eSIM 占用大小统计","description":"","frontmatter":{},"headers":[],"relativePath":"esim-size.md","filePath":"esim-size.md"}'),i={name:"esim-size.md"},o=r("",4),a=[o];function l(s,n,c,_,m,h){return e(),d("div",null,a)}const b=t(i,[["render",l]]);export{f as __pageData,b as default};
