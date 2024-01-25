@@ -16,6 +16,7 @@
 | SMART             | 22.49   | 2      | 16      | 43       |
 | Elisa (ESIM Plus) | 23.44   | 2      | 16      | 43       |
 | T-mobile CZ       | 24.41   | 2      | 15      | 41       |
+| Cellfie           | 25.69   | 2      | 14      | 39       |
 | Google Fi         | 27.22   | 1      | 14      | 38       |
 | One NZ            | 31.05   | 1      | 12      | 34       |
 | Jetpacglobal      | 33.30   | 1      | 11      | 30       |
