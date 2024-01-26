@@ -21,6 +21,7 @@
 | One NZ            | 31.05   | 1      | 12      | 34       |
 | Jetpacglobal      | 33.30   | 1      | 11      | 30       |
 | BetterRoaming     | 34.58   | 1      | 11      | 29       |
+| XOX               | 40.82   | 1      | 9      | 25       |
 | Telia (Super) *   | 42.63   | 1      | 9       | 24       |
 | Vodafone IE       | 44.63   | 1      | 9       | 24       |
 | CMLink GDS        | 45.91   | 1      | 9       | 24       |
