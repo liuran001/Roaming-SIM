@@ -24,7 +24,8 @@
 | XOX               | 40.82   | 1      | 9      | 25       |
 | Telia (Super) *   | 42.63   | 1      | 9       | 24       |
 | Vodafone IE       | 44.63   | 1      | 9       | 24       |
-| CMLink GDS        | 45.91   | 1      | 9       | 24       |
+| AIS (MESIM)       | 45.82   | 1      | 8      | 22       |
+| CMLink GDS        | 45.91   | 1      | 8       | 22       |
 | T-mobile USA      | 46.81   | 1      | 8       | 21       |
 | lifecell          | 46.85   | 1      | 8       | 21       |
 | 3 UK              | 47.60   | 1      | 8      | 21       |
