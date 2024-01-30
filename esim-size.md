@@ -46,7 +46,3 @@
 1. 目前有群友报告 5ber.eSIM 中写入 Red Bull Mobile 的 eSIM Profile 可能出现覆盖固件的问题，会导致整张 5ber 卡片写入的数据全部丢失，请谨慎使用
 2. eid 为 `89086030` 开头的 5ber.eSIM 和 eSIM.me 无法正常写入 One NZ 的 eSIM Profile
 3. 5ber.eSIM 中存入 eSIM Profile 相较于其他介质会占用更多的空间 ~~，具体原因和占用倍数不详~~ ，据说是卡密钥长度问题，每个配置文件都会膨胀 11-15K，建议将所有大小增加 15K 后再估算空间。表格中标注有`*`号的项，说明此项在 5ber.eSIM 中测试得出
-
-
-其他  
-28.544 中国电信 BPP 大小
