@@ -34,6 +34,8 @@
 | Vodafone UK      | 56.57      | 1       | 6         | 18         |
 | Vodafone DE      | 57.21      | 1       | 6         | 17         |
 | Lycamobile UK    | 58.80      | 1       | 6         | 17         |
+| T-mobile USA *   | 59.20      | 1       | 6         | 17         |
+| XL Axiata        | 61         | 1      | 6         | 16         |
 | Clubsim          | 65.22      | 0       | 5         | 15         |
 | CTM              | 70.14      | 0       | 5         | 14         |
 | Pildyk (Tele2) * | 75.70      | 0       | 5         | 13         |
