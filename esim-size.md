@@ -49,6 +49,7 @@
 | 🇰🇳 Digicel KN       | 91.61      | 0       | 4         | 11         |
 | 🇺🇸 Verizon Postpaid     | 130.89      | 0       | 2         | 7        |
 | 🇺🇾Antel     | 144      | 0       |   2       | 7        |
+
 注：
 1. 目前有群友报告 5ber.eSIM 中写入 Red Bull Mobile 的 eSIM Profile 可能出现覆盖固件的问题，会导致整张 5ber 卡片写入的数据全部丢失，请谨慎使用
 2. ~~eid 为 `89086030` 开头的 5ber.eSIM 和 eSIM.me 无法正常写入 One NZ 的 eSIM Profile~~
