@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as r,a2 as e}from"./chunks/framework.DhS4kvOD.js";const h=JSON.parse('{"title":"eSIM 占用大小统计","description":"","frontmatter":{},"headers":[],"relativePath":"esim-size.md","filePath":"esim-size.md"}'),i={name:"esim-size.md"},a=e("",5),o=[a];function l(s,n,m,c,S,_){return r(),d("div",null,o)}const p=t(i,[["render",l]]);export{h as __pageData,p as default};
