@@ -49,6 +49,7 @@
 | 🇰🇳 Digicel KN       | 91.61      | 0       | 4         | 11         |
 | 🇺🇸 Verizon Postpaid     | 130.89      | 0       | 2         | 7        |
 | 🇺🇾Antel     | 144      | 0       |   2       | 7        |
+| 🇮🇩 Smartfren        | 84.75         | 0       | 4         | 12         |
 
 注：
 1. 目前有群友报告 5ber.eSIM 中写入 Red Bull Mobile 的 eSIM Profile 可能出现覆盖固件的问题，会导致整张 5ber 卡片写入的数据全部丢失，请谨慎使用
