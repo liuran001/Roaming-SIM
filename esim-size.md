@@ -1,4 +1,5 @@
 # eSIM 占用大小统计
+## **此页面已经年久失修，建议移步 [NekokoLPA 统计信息](https://lpa.nekoko.ee/stats)**  
 数据来自于群友反馈，不保证准确性，仅供参考使用  
 国旗由 ChatGPT 添加，不保证准确
 
